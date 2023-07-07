@@ -11,14 +11,14 @@
     margin-right: auto;
     margin-left: auto;
     backdrop-filter: blur(10px);
-    background-color: rgba(100, 102, 101, 0.1);
+    background-color: rgba(210, 212, 211, 0.1);
 }
 body{
-    background-image: url(./background.jpg);
+    background-image: url(/img/background.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100%;
-    background-color: rgba(3, 3, 34, 0.7);
+    background-color: rgba(228, 228, 228, 0.7);
     padding: 50px 0px 50px 0px;
 }
 .div{
